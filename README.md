@@ -25,9 +25,9 @@ I am developing my Python and C foundations and exploring useful applications of
 | **[RepoCheck](https://github.com/me-vishnurnair/repocheck)** | Finds missing repository essentials and selected risky patterns. | A shared CLI/API engine, bounded archive inspection and reports that omit matched values. |
 | **[Portfolio](https://github.com/me-vishnurnair/portfolio)** | Makes projects and their design decisions easy to explore. | Responsive layouts, real screenshots, semantic HTML and keyboard-accessible dialogs. |
 
-**Release status:** the implementations have been tested locally. Source uploads and live deployments are in progress; live links will be added after verification.
+**Release status:** the implementations have been tested locally. All four source repositories are published, and the three Python projects have passed GitHub Actions. Live deployments are pending; demo links will be added after verification.
 
-Each prepared project includes setup instructions, screenshots, a license, and a `docs/EXPLAINED.md` walkthrough with ten interview questions and answers. The three Python applications also include tests and CI configuration.
+Each project includes setup instructions, screenshots, a license, and a `docs/EXPLAINED.md` walkthrough with ten interview questions and answers. The three Python applications also include tests and CI configuration.
 
 ## Skills and learning
 
