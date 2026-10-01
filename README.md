@@ -42,11 +42,12 @@ Each project includes setup instructions, screenshots, a license, and a `docs/EX
 - **Security:** validate untrusted inputs, check ownership, and understand what a scanner can miss.
 - **DSA:** write explanations and revisit problems without looking at the solution.
 
-These are AI-assisted learning builds. I am studying their internals and working toward explaining and extending each one independently. Technologies used in a project describe its implementation; they are not claims of professional experience.
+These are AI-assisted learning builds. I am studying their internals and working toward explaining and extending each one independently.
 
 ## Connect
 
 - [GitHub](https://github.com/me-vishnurnair)
 - [Email](mailto:iamvishnurnair@gmail.com)
+- [Resume (PDF)](https://github.com/me-vishnurnair/portfolio/blob/main/assets/Vishnu_R_Nair_Resume.pdf)
 
 I'm interested in student collaborations and internships where I can learn, contribute, and improve.
