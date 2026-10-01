@@ -6,7 +6,7 @@
 
 Learning to build useful software, understand its trade-offs, and explain how it works.
 
-[Projects](#selected-projects) · [Learning focus](#skills-and-learning) · [Get in touch](mailto:iamvishnurnair@gmail.com)
+[**Live portfolio ↗**](https://vishnu-portfolio-1ijm.onrender.com) · [Resume ↓](https://vishnu-portfolio-1ijm.onrender.com/assets/Vishnu_R_Nair_Resume.pdf) · [Get in touch](mailto:iamvishnurnair@gmail.com)
 
 </div>
 
@@ -25,7 +25,9 @@ I am developing my Python and C foundations and exploring useful applications of
 | **[RepoCheck](https://github.com/me-vishnurnair/repocheck)** | Finds missing repository essentials and selected risky patterns. | A shared CLI/API engine, bounded archive inspection and reports that omit matched values. |
 | **[Portfolio](https://github.com/me-vishnurnair/portfolio)** | Makes projects and their design decisions easy to explore. | Responsive layouts, real screenshots, semantic HTML and keyboard-accessible dialogs. |
 
-**Release status:** the implementations have been tested locally. All four source repositories are published, and the three Python projects have passed GitHub Actions. Live deployments are pending; demo links will be added after verification.
+**Try the live builds:** [NoteLens ↗](https://vishnu-notelens.onrender.com) · [RepoCheck ↗](https://vishnu-repocheck.onrender.com) · [Portfolio ↗](https://vishnu-portfolio-1ijm.onrender.com)
+
+**Release status:** all four source repositories are published, and the three Python projects have passed GitHub Actions. The portfolio, NoteLens and RepoCheck passed [live feature checks](https://github.com/me-vishnurnair/portfolio/actions/runs/36832848807) on 1 October 2026. CampusTrack's database is ready; its final Render connection remains pending. Free app demos may take about a minute to wake up.
 
 Each project includes setup instructions, screenshots, a license, and a `docs/EXPLAINED.md` walkthrough with ten interview questions and answers. The three Python applications also include tests and CI configuration.
 
@@ -46,8 +48,9 @@ These are AI-assisted learning builds. I am studying their internals and working
 
 ## Connect
 
+- [Portfolio](https://vishnu-portfolio-1ijm.onrender.com)
 - [GitHub](https://github.com/me-vishnurnair)
 - [Email](mailto:iamvishnurnair@gmail.com)
-- [Resume (PDF)](https://github.com/me-vishnurnair/portfolio/blob/main/assets/Vishnu_R_Nair_Resume.pdf)
+- [Resume (PDF)](https://vishnu-portfolio-1ijm.onrender.com/assets/Vishnu_R_Nair_Resume.pdf)
 
 I'm interested in student collaborations and internships where I can learn, contribute, and improve.
