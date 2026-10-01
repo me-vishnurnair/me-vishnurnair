@@ -21,13 +21,13 @@ I am developing my Python and C foundations and exploring useful applications of
 | Project | What it does | Engineering focus |
 |---|---|---|
 | **[NoteLens](https://github.com/me-vishnurnair/notelens)** | Finds passages across study notes and text PDFs, with source references. | Compare TF-IDF, latent-semantic and hybrid ranking; inspect behavior and evaluation limits. |
-| **[CampusTrack](https://github.com/me-vishnurnair/campustrack)** | Keeps internship applications, stages and deadlines together. | Account ownership, relational data, expiring sessions, CSRF checks and safe CSV export. |
+| **[CampusTrack](https://github.com/me-vishnurnair/campustrack)** | Keeps applications, stages and deadlines together; includes a browser-saved edition with backup/restore. | Account ownership, relational data, expiring sessions, CSRF checks and safe CSV export. |
 | **[RepoCheck](https://github.com/me-vishnurnair/repocheck)** | Finds missing repository essentials and selected risky patterns. | A shared CLI/API engine, bounded archive inspection and reports that omit matched values. |
 | **[Portfolio](https://github.com/me-vishnurnair/portfolio)** | Makes projects and their design decisions easy to explore. | Responsive layouts, real screenshots, semantic HTML and keyboard-accessible dialogs. |
 
-**Try the live builds:** [NoteLens ↗](https://vishnu-notelens.onrender.com) · [RepoCheck ↗](https://vishnu-repocheck.onrender.com) · [Portfolio ↗](https://vishnu-portfolio-1ijm.onrender.com)
+**Try the free live builds:** [CampusTrack ↗](https://vishnu-campustrack-browser.onrender.com) · [NoteLens ↗](https://vishnu-notelens.onrender.com) · [RepoCheck ↗](https://vishnu-repocheck.onrender.com) · [Portfolio ↗](https://vishnu-portfolio-1ijm.onrender.com)
 
-**Release status:** all four source repositories are published, and the three Python projects have passed GitHub Actions. The portfolio, NoteLens and RepoCheck passed [live feature checks](https://github.com/me-vishnurnair/portfolio/actions/runs/36832848807) on 1 October 2026. CampusTrack's database is ready; its final Render connection remains pending. Free app demos may take about a minute to wake up.
+**Release status:** all four source repositories are published, and the three Python projects have passed GitHub Actions. All live deployments passed [HTTP and API feature checks](https://github.com/me-vishnurnair/portfolio/actions/runs/36870538339) on 1 October 2026. CampusTrack's primary demo is a free static browser edition with local saving and JSON backup/restore. The separate account-based backend is also deployed on a database trial ending 31 October 2026. NoteLens and RepoCheck wake automatically when visited and may take about a minute to start.
 
 Each project includes setup instructions, screenshots, a license, and a `docs/EXPLAINED.md` walkthrough with ten interview questions and answers. The three Python applications also include tests and CI configuration.
 
