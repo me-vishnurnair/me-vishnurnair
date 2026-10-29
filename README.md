@@ -1,6 +1,6 @@
 <div align="center">
 
-# Vishnu R. Nair
+# Vishnu R Nair
 
 **Computer Science & Engineering · AI & ML · SCTCE '29**
 
